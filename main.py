@@ -9,4 +9,5 @@ with sync_playwright() as p:
     time.sleep(5)
 print(2344)
 
+print(123456456456)
 1.1
